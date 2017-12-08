@@ -19,7 +19,6 @@ Agilent NGS Workstation              | :warning: Option B configuration only
 Eppendorf twin.tec 96 PCR plate      | Eppendorf, cat# 0030 128.672 (int); 951020460 (US)
 Nunc deepwell 1.3 mL plate           | Thermo Scientific, cat# 260251
 ABgene 2.2 mL storage plate Mk.II    | Thermo Scientific, cat# AB-0933
-Deepwell plate adaptor on position 6 | Agilent Technologies, cat# G5498B#012
 Labware definitions                  | Provided in `all_labware_liquids.vzp`
 Liquid classes definition            | Provided in `all_labware_liquids.vzp`
 
@@ -112,8 +111,8 @@ Automation protocols made available by the National Genomics Infrastructure Stoc
 *VWorks Automation Control*, *Bravo* and other things relating to the *Agilent NGS Workstation* are trademarks owned by Agilent Technologies, Inc. (Santa Clara, CA 95052-8058, US).
 
 [email]: mailto:joel.gruselius@scilifelab.se "E-mail author"
-[ngi]: https://portal.scilifelab.se/genomics/ "NGI Stockholm"
-[scilife]: http://www.scilifelab.se/platforms/ngi/ "SciLifeLab"
+[ngi]: https://www.scilifelab.se/facilities/ngi-stockholm/ "NGI Stockholm"
+[scilife]: https://www.scilifelab.se "SciLifeLab"
 [zip]: https://github.com/ngi-automation/rad-seq/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
