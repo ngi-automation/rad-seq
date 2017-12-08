@@ -12,16 +12,16 @@
 This README describes how to set up NGI Stockholms RAD-seq method for the Agilent NGS Workstation. This protocol can be used to prepare up to 96 samples with the in-house RAD-seq protocol.
 
 ## Requirements ##
-- Agilent NGS Workstation :warning: <i><b>Option B only</i></b>
-- Consumables
-   - Eppendorf twin.tec 96 PCR plate (Eppendorf, cat# 0030 128.672 (int); 951020460 (US))
-   - Nunc deepwell 1.3 mL plate (Thermo Scientific, cat# 260251)
-   - ABgene 2.2 mL storage plate Mk.II (Thermo Scientific, cat# AB-0933)
-- Deepwell plate adaptor on position 6 (Agilent Technologies, cat# G5498B#012) and supporting device file
-- Labware definitions*
-- Liquid classes definition*
 
-\* provided in `all_labware_liquids.vzp`
+Item                                 | Note
+:------------------------------------|:---------
+Agilent NGS Workstation              | :warning: Option B configuration only
+Eppendorf twin.tec 96 PCR plate      | Eppendorf, cat# 0030 128.672 (int); 951020460 (US)
+Nunc deepwell 1.3 mL plate           | Thermo Scientific, cat# 260251
+ABgene 2.2 mL storage plate Mk.II    | Thermo Scientific, cat# AB-0933
+Deepwell plate adaptor on position 6 | Agilent Technologies, cat# G5498B#012
+Labware definitions                  | Provided in `all_labware_liquids.vzp`
+Liquid classes definition            | Provided in `all_labware_liquids.vzp`
 
 #### Included files ####
 ```
